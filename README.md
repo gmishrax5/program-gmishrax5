@@ -88,7 +88,7 @@ Let's say you are going to implement the Twitter dApp as the Solana Program. Her
 - [Account Macro Constraints](https://docs.rs/anchor-lang/0.31.1/anchor_lang/derive.Accounts.html)
 - [Solana Developers Courses](https://solana.com/developers/courses)
 
------
+------
 
 ### Need help?
 >[!TIP]
